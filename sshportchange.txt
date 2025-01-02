@@ -1,0 +1,9 @@
+ 𝑺𝒕𝒆𝒑𝒔 𝒕𝒐 𝑪𝒉𝒂𝒏𝒈𝒆 𝒕𝒉𝒆 𝑺𝑺𝑯 𝑷𝒐𝒓𝒕
+👉 Choose a New Port Number: 𝐈 𝐜𝐡𝐨𝐬𝐞 2013 
+👉 Edited the SSH Config File using 𝐧𝐚𝐧𝐨 /𝐞𝐭𝐜/𝐬𝐬𝐡/𝐬𝐬𝐡𝐝_𝐜𝐨𝐧𝐟𝐢𝐠 
+ Located line: hashtag#Port 22 Uncommented it and replaced 22 with 2013 my chosen port and saved.
+👉 Updated firewall rules
+👉 Restarted SSH service
+👉Tested the new port 
+𝐍.𝐁: Always test the new port in a separate session before logging out of your existing one.
+This simple step can make a big difference in server security. Have you tried this? Let me know your thoughts in the comments. 
